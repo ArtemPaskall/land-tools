@@ -1,0 +1,51 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Функция для обработки события ввода
+      function handlePhoneInput(event) {
+        var phoneInput = event.target;
+  
+        var inputValue = phoneInput.value;
+        var numericValue = inputValue.replace(/[^\d]/g, "");
+  
+        if (!numericValue.startsWith("37")) {
+          numericValue = "37" + numericValue.substr(2);
+        }
+  
+        phoneInput.value = "+" + numericValue;
+  
+        if (numericValue.length < 11) {
+          phoneInput.setCustomValidity("Номер телефона должен содержать как минимум 11 цифр.");
+        } else {
+          phoneInput.setCustomValidity("");
+        }
+      }
+  
+      // Функция для обработки события отправки формы
+      function handleFormSubmit(event) {
+        var phoneInput = event.target.querySelector('input[type="tel"]');
+        var numericValue = phoneInput.value.replace(/[^\d]/g, "");
+  
+        if (numericValue.length < 11 ) {
+          event.preventDefault();
+          alert("Номер телефона должен содержать как минимум 11 цифр.");
+        }
+      }
+  
+      // Находим все формы на странице
+      var forms = document.querySelectorAll('form');
+  
+      // Обходим все формы
+      forms.forEach(function(form) {
+        form.addEventListener('submit', handleFormSubmit);
+        
+        // Находим все поля ввода телефонных номеров в каждой форме
+        var phoneInputs = form.querySelectorAll('input[type="tel"]');
+  
+        // Обходим все поля ввода телефонных номеров и добавляем обработчик события ввода
+        phoneInputs.forEach(function(phoneInput) {
+          phoneInput.value = "+37"; // Устанавливаем начальное значение
+          phoneInput.addEventListener('input', handlePhoneInput);
+        });
+      });
+    });
+  </script>

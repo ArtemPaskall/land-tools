@@ -1,0 +1,21 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.js"></script>
+
+<script>
+  const hrefs = document.querySelectorAll("a");
+  const target_form = document.getElementById("form");
+
+  hrefs.forEach((element) => {
+    element.href = "#form";
+    element.setAttribute("target", "");
+     
+    element.addEventListener("click", (e) => {
+      e.preventDefault();
+      target_form.scrollIntoView({ block: "center", behavior: "smooth" });
+    });
+  });
+</script>
+
+
+
+і перед формою  додати
+<div id="form"></div>
