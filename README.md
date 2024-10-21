@@ -24,7 +24,21 @@
 
 ####  https://saveweb2zip.com/en  -  скачати ленд
 #### Cyotek
+##
 <br/>
 
+
+
+#### https://www.remove.bg/       Для видалення фонів ШІ
+#### https://www.vertopal.com/en/convert/jpg-to-ai  змінити формат image AI
 ##
+<br/>
+
+
 #### https://uncss-online.com/      Для обрізання та виявлення певних потрібних стилів
+##
+<br/>
+
+
+#### $_SERVER['REMOTE_ADDR'] - Повертає ip адресу
+#### $_SERVER['HTTP_REFERER'] - Повертає реферрер
