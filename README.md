@@ -9,7 +9,7 @@
 
 # Land-TOOLS
 
-<img height="1" width="1" src="https://www.facebook.com/tr?id=<?=$_GET['pixel'];?>&ev=Lead&noscript=1" />    
+`<img height="1" width="1" src="https://www.facebook.com/tr?id=<?=$_GET['pixel'];?>&ev=Lead&noscript=1" />`
 
 ### код пікселя на Дякую.
 
