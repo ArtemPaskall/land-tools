@@ -4,7 +4,7 @@
 ### Додати скрипт jQuery
 ### Додати Scroll скрипт 
 ### Додати скрипт динамічної дати 
-### Замінити     НАЗВУ ОФЕРУ,     ФОТО,     ЦІНИ,   ВАЛЮТИ,    FAVICON,     ГЕО,    LANG
+### Замінити  &nbsp;&nbsp;&nbsp; НАЗВУ ОФЕРУ, &nbsp;&nbsp;&nbsp; ФОТО, &nbsp;&nbsp;&nbsp; ЦІНИ, &nbsp;&nbsp;&nbsp; ВАЛЮТИ, &nbsp;&nbsp;&nbsp; FAVICON, &nbsp;&nbsp;&nbsp; ГЕО, &nbsp;&nbsp;&nbsp; LANG
 
 <br/>
 <br/>
@@ -36,8 +36,8 @@
 
 <br/>
 
-#### https://www.remove.bg/       Для видалення фонів ШІ
-#### https://www.vertopal.com/en/convert/jpg-to-ai  змінити формат image AI
+#### https://www.remove.bg/  -  Для видалення фонів ШІ
+#### https://www.vertopal.com/en/convert/jpg-to-ai  -  змінити формат image AI
 <br/>
 
 ##
