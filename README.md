@@ -15,18 +15,15 @@
 #### код пікселя на Дякую.
 ##
 <br/>
-<br/>
 
 
 #### https://www.w3schools.com/tags/ref_language_codes.asp  - для додавання атрибута lang.
 #### https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes  - для додавання коду країни
 ##
 <br/>
-<br/>
 
 ####  https://saveweb2zip.com/en  -  скачати ленд
 #### Cyotek
-<br/>
 <br/>
 
 ##
