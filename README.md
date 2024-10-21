@@ -11,7 +11,7 @@
 
 <img height="1" width="1" src="https://www.facebook.com/tr?id=<?=$_GET['pixel'];?>&ev=Lead&noscript=1" />    
 
-### пікселя на Дякую.
+### код пікселя на Дякую.
 
 
 ### https://www.w3schools.com/tags/ref_language_codes.asp  - для додавання атрибута lang.
