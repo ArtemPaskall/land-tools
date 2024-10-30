@@ -5,6 +5,7 @@
 ### Додати Scroll скрипт 
 ### Додати скрипт динамічної дати 
 ### Додати маску телефона 
+### Перевірити моб та декстоп версію
 ### Замінити  &nbsp;&nbsp;&nbsp; НАЗВУ ОФЕРУ, &nbsp;&nbsp;&nbsp; ФОТО, &nbsp;&nbsp;&nbsp; ЦІНИ, &nbsp;&nbsp;&nbsp; ВАЛЮТИ, &nbsp;&nbsp;&nbsp; FAVICON, &nbsp;&nbsp;&nbsp; ГЕО, &nbsp;&nbsp;&nbsp; LANG
 
 <br/>
