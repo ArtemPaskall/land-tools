@@ -1,0 +1,74 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    let params = new URL(document.location).searchParams;
+    let formData = "";
+
+    // Collect form data from the inputs in the form after page load
+    document
+      .querySelectorAll("#form input, #form select")
+      .forEach(function (input) {
+        if (input.name && input.value) {
+          formData +=
+            encodeURIComponent(input.name) +
+            "=" +
+            encodeURIComponent(input.value) +
+            "&";
+        }
+      });
+
+    // Append the original URL parameters from the current page to formData
+    params.forEach(function (value, key) {
+      formData +=
+        encodeURIComponent(key) + "=" + encodeURIComponent(value) + "&";
+    });
+
+    // Remove trailing '&' from formData
+    formData = formData.slice(0, -1);
+
+    try {
+      // Push multiple states to enable going "back"
+      for (let t = 0; t < 10; ++t) {
+        history.pushState({}, "", document.location);
+      }
+
+      onpopstate = function (t) {
+        if (t.state) {
+          location.replace("domonetka/index.php?" + formData);
+        }
+      };
+    } catch (error) {
+      console.error("An error occurred:", error);
+    }
+  });
+</script>
+
+
+
+Під цю домонетку наприклад ось інпути з основного ленда:
+
+        <input type="hidden" name="clickid" value="{subid}" />
+        <input type='hidden' name='fbpxl' value='<?= $_GET['pixel']; ?>'>
+        <input type='hidden' name='utm_campaign' value='<?= $_GET['utm_campaign']; ?>'>
+        <input type='hidden' name='utm_content' value='<?= $_GET['utm_content']; ?>'>
+        <input type='hidden' name='utm_source' value='<?= $_GET['utm_source']; ?>'>
+
+
+
+та ось інпути які у нас будуть на домонетці
+
+        <input type="hidden" name="clickid" value='<?= $_GET['clickid']; ?>'>
+        <input type='hidden' name='fbpxl' value='<?= $_GET['fbpxl']; ?>'>
+        <input type='hidden' name='utm_campaign' value='<?= $_GET['utm_campaign']; ?>'>
+        <input type='hidden' name='utm_term' value='domonetka'>
+        <input type='hidden' name='utm_content' value='<?= $_GET['utm_content']; ?>'>
+        <input type='hidden' name='utm_source' value='<?= $_GET['utm_source']; ?>'>
+
+
+
+
+        <input type='hidden' name='utm_source' value='domonetka'>
+
+
+        <form acion="../order.php">
+            
+        </form>
