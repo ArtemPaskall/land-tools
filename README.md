@@ -16,7 +16,7 @@
 
 [API по ПП](https://docs.google.com/spreadsheets/d/1fZpYqeXQr1Rd0ZGWqQBOo6MkF5HVXuZIqNeivqlSkx0/edit?hl=ru&gid=0#gid=0)
 
-#### [https://bfotool.com/ru/website-download-online](https://docs.google.com/spreadsheets/d/1nM07RaNCNJvNxp6ynDfBmpF9OJLEHIoDd2La8wMslMM/edit?gid=0#gid=0) - Гайд
+ [Гайд по роботі з лендінгами](https://docs.google.com/spreadsheets/d/1nM07RaNCNJvNxp6ynDfBmpF9OJLEHIoDd2La8wMslMM/edit?gid=0#gid=0)
 <br/>
 
 #### https://www.w3schools.com/tags/ref_language_codes.asp  - для додавання атрибута lang.
