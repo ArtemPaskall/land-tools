@@ -14,15 +14,17 @@
 
 # Land-TOOLS
 
-[API по ПП](https://docs.google.com/spreadsheets/d/1fZpYqeXQr1Rd0ZGWqQBOo6MkF5HVXuZIqNeivqlSkx0/edit?hl=ru&gid=0#gid=0)
 
- [Гайд по роботі з лендінгами](https://docs.google.com/spreadsheets/d/1nM07RaNCNJvNxp6ynDfBmpF9OJLEHIoDd2La8wMslMM/edit?gid=0#gid=0)
+[API по ПП](https://docs.google.com/spreadsheets/d/1fZpYqeXQr1Rd0ZGWqQBOo6MkF5HVXuZIqNeivqlSkx0/edit?hl=ru&gid=0#gid=0)
+[Гайд по роботі з лендінгами](https://docs.google.com/spreadsheets/d/1nM07RaNCNJvNxp6ynDfBmpF9OJLEHIoDd2La8wMslMM/edit?gid=0#gid=0)
 <br/>
+
 
 ##
 
 
 <br/>
+
 #### https://www.w3schools.com/tags/ref_language_codes.asp  - для додавання атрибута lang.
 #### https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes  - для додавання коду країни
 <br/>
