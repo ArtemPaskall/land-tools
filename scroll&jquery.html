@@ -2,10 +2,10 @@
 
 <script>
   const hrefs = document.querySelectorAll("a");
-  const target_form = document.getElementById("form");
+  const target_form = document.getElementById("my-form");
 
   hrefs.forEach((element) => {
-    element.href = "#form";
+    element.href = "#my-form";
     element.setAttribute("target", "");
      
     element.addEventListener("click", (e) => {
@@ -18,4 +18,4 @@
 
 
 і перед формою  додати
-<div id="form"></div>
+<div id="my-form"></div>
