@@ -20,6 +20,8 @@
 [API по ПП](https://docs.google.com/spreadsheets/d/1fZpYqeXQr1Rd0ZGWqQBOo6MkF5HVXuZIqNeivqlSkx0/edit?hl=ru&gid=0#gid=0)
 
 [Гайд по роботі з лендінгами](https://docs.google.com/spreadsheets/d/1nM07RaNCNJvNxp6ynDfBmpF9OJLEHIoDd2La8wMslMM/edit?gid=0#gid=0)
+
+[Таблиця KPI](https://docs.google.com/spreadsheets/d/13FGt8IDN3hYvVo_clOeqVw1A-lnoDDeoN96pM6hoor4/edit?gid=1173819837#gid=1173819837)
 <br/>
 
 
