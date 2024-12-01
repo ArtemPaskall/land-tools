@@ -64,7 +64,3 @@
 
 ##
 
-<br/>
-
-#### $_SERVER['REMOTE_ADDR'] - Повертає ip адресу
-#### $_SERVER['HTTP_REFERER'] - Повертає реферрер
