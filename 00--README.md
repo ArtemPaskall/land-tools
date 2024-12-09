@@ -9,6 +9,7 @@
 ### Перевірити &nbsp;&nbsp;&nbsp; ACTION,  &nbsp;&nbsp;&nbsp; REQUIRE, &nbsp;&nbsp;&nbsp; SUBMIT, &nbsp;&nbsp;&nbsp; COUNTRY_CODE
 ### Перевірити моб та декстоп версію
 ### Додати php код на початок index.html
+### Додати домонетку
 ### Додати s2s posrback
 
 <br/>
