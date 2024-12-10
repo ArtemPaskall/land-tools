@@ -5,7 +5,7 @@
 ### Видалити скрипти
 ### Додати Scroll скрипт 
 ### Додати скрипт динамічної дати 
-### Замінити &nbsp;&nbsp;&nbsp; BASE,  &nbsp;&nbsp;&nbsp; НАЗВУ ОФЕРУ, &nbsp;&nbsp;&nbsp; ФОТО, &nbsp;&nbsp;&nbsp; ЦІНИ, &nbsp;&nbsp;&nbsp; ВАЛЮТИ, &nbsp;&nbsp;&nbsp; FAVICON, &nbsp;&nbsp;&nbsp; ГЕО, &nbsp;&nbsp;&nbsp; LANG
+### Замінити  &nbsp;&nbsp;&nbsp; НАЗВУ ОФЕРУ, &nbsp;&nbsp;&nbsp; ФОТО, &nbsp;&nbsp;&nbsp; ЦІНИ, &nbsp;&nbsp;&nbsp; ВАЛЮТИ, &nbsp;&nbsp;&nbsp; FAVICON, &nbsp;&nbsp;&nbsp; ГЕО, &nbsp;&nbsp;&nbsp; LANG
 ### Перевірити &nbsp;&nbsp;&nbsp; ACTION,  &nbsp;&nbsp;&nbsp; REQUIRE, &nbsp;&nbsp;&nbsp; SUBMIT, &nbsp;&nbsp;&nbsp; COUNTRY_CODE
 ### Перевірити моб та декстоп версію
 ### Додати php код на початок index.html
