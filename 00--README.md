@@ -1,10 +1,10 @@
 # Скрипт налаштування лендінгу оферу
 
+
+### Додати скрипт jQuery та Маску телефону
 ### Видалити скрипти
-### Додати скрипт jQuery
 ### Додати Scroll скрипт 
 ### Додати скрипт динамічної дати 
-### Додати маску телефона 
 ### Замінити &nbsp;&nbsp;&nbsp; BASE,  &nbsp;&nbsp;&nbsp; НАЗВУ ОФЕРУ, &nbsp;&nbsp;&nbsp; ФОТО, &nbsp;&nbsp;&nbsp; ЦІНИ, &nbsp;&nbsp;&nbsp; ВАЛЮТИ, &nbsp;&nbsp;&nbsp; FAVICON, &nbsp;&nbsp;&nbsp; ГЕО, &nbsp;&nbsp;&nbsp; LANG
 ### Перевірити &nbsp;&nbsp;&nbsp; ACTION,  &nbsp;&nbsp;&nbsp; REQUIRE, &nbsp;&nbsp;&nbsp; SUBMIT, &nbsp;&nbsp;&nbsp; COUNTRY_CODE
 ### Перевірити моб та декстоп версію
