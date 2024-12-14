@@ -3,10 +3,10 @@
 
 <script>
   const hrefs = document.querySelectorAll("a");
-  const target_form = document.getElementById("my-form");
+  const target_form = document.getElementById("scroll-form");
 
   hrefs.forEach((element) => {
-    element.href = "#my-form";
+    element.href = "#scroll-form";
     element.setAttribute("target", "");
      
     element.addEventListener("click", (e) => {
@@ -16,7 +16,4 @@
   });
 </script>
 
-
-
-і перед формою  додати
-<div id="my-form"></div>
+<div id="scroll-form"></div>
