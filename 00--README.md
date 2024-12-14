@@ -18,7 +18,7 @@
 # Land-TOOLS
 
 
-[Аdspect клоака ](https://flow.veadui.com) &nbsp;&nbsp;  Код доступа 12345  &nbsp;&nbsp; Формат потока: id ПП | оффер | гео | баер
+[Аdspect клоака ](https://flow.veadui.com) &nbsp;&nbsp; Формат потока: id ПП | оффер | гео | баер &nbsp;&nbsp;  Код доступа 12345  
 
 [API по ПП](https://docs.google.com/spreadsheets/d/1fZpYqeXQr1Rd0ZGWqQBOo6MkF5HVXuZIqNeivqlSkx0/edit?hl=ru&gid=0#gid=0)
 
