@@ -9,7 +9,7 @@
 ### Перевірити &nbsp;&nbsp;&nbsp; ACTION,  &nbsp;&nbsp;&nbsp; REQUIRE, &nbsp;&nbsp;&nbsp; SUBMIT, &nbsp;&nbsp;&nbsp; COUNTRY_CODE,  &nbsp;&nbsp;&nbsp; INPUTS
 ### Перевірити моб та декстоп версію
 ### Додати php код на початок index.html
-### Додати домонетку
+### Додати домонетку і <script>
 ### Додати s2s posrback
 ### Аdspect клоака
 
