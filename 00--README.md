@@ -21,6 +21,8 @@
 
 [Аdspect клоака ](https://flow.veadui.com) &nbsp;&nbsp; Формат потока: id | ПП | оффер | гео | баер &nbsp;&nbsp;  Код доступа 12345  
 
+[Домени](https://panel.privateflare.com)
+
 [API по ПП](https://docs.google.com/spreadsheets/d/1fZpYqeXQr1Rd0ZGWqQBOo6MkF5HVXuZIqNeivqlSkx0/edit?hl=ru&gid=0#gid=0)
 
 [Гайд по роботі з лендінгами](https://docs.google.com/spreadsheets/d/1nM07RaNCNJvNxp6ynDfBmpF9OJLEHIoDd2La8wMslMM/edit?gid=0#gid=0)
