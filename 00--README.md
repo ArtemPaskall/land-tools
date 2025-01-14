@@ -19,7 +19,7 @@
 # Land-TOOLS
 
 
-[Аdspect клоака ](https://flow.veadui.com) &nbsp;&nbsp; Формат потока: id | ПП | оффер | гео | баер &nbsp;&nbsp;  Код доступа 12345  
+[Аdspect клоака ](https://flow.veadui.com) &nbsp;&nbsp; Формат потока: id | ПП | оффер | гео | баер &nbsp;&nbsp;  Код доступа A1xB2243ccvC3wqeD411  
 
 [Домени](https://panel.privateflare.com)
 
