@@ -17,3 +17,19 @@
 </script>
 
 <div id="scroll-form"></div>
+
+
+<script>
+    const hrefs = document.querySelectorAll("a, button:not([type='submit'])");
+    const target_form = document.getElementById("form");
+
+    hrefs.forEach((element) => {
+      element.addEventListener("click", (e) => {
+        e.preventDefault();
+        target_form.scrollIntoView({
+          block: "center",
+          behavior: "smooth"
+        });
+      });
+    });
+</script>
