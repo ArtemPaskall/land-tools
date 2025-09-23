@@ -8,8 +8,8 @@
 ### Замінити  &nbsp;&nbsp;&nbsp; НАЗВУ ОФЕРУ, &nbsp;&nbsp;&nbsp; ФОТО, &nbsp;&nbsp;&nbsp; ЦІНИ, &nbsp;&nbsp;&nbsp; ВАЛЮТИ, &nbsp;&nbsp;&nbsp; ЗНИЖКА, &nbsp;&nbsp;&nbsp; FAVICON, &nbsp;&nbsp;&nbsp; LANG
 ### Перевірити &nbsp;&nbsp;&nbsp; ACTION,  &nbsp;&nbsp;&nbsp; REQUIRE, &nbsp;&nbsp;&nbsp; SUBMIT, &nbsp;&nbsp;&nbsp; COUNTRY_CODE,  &nbsp;&nbsp;&nbsp; INPUTS
 ### Перевірити моб та декстоп версію
-### Додати php код на початок index.html
-### Додати домонетку і <script>
+### one_order_form
+### first_name
 ### Додати s2s posrback
 ### Аdspect клоака
 
